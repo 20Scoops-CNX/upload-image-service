@@ -12,7 +12,7 @@ This document assumes that you have a working [Go development environment.](http
 3. Go to directory proojet and use command `go run main.go`
 4. Test upload image by [Postman](https://www.getpostman.com/)
 
-This project requires the five parameters specified to connect to Amazon S3.
+This project requires the five parameters specified to connect Amazon S3.
 
 | Parameter  | Description| 
 | :---         |     :---     |
